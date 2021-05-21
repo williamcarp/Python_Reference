@@ -8,6 +8,12 @@ Comments, sections with Colab markup language.
 
 Reading in data from .csv files 
 
+Some algorithms in python 
+
+Trees/nodes in python
+
+graphing, regressions
+
 Arrays, loops, conditional statements.
 
 Functions. 
