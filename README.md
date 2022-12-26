@@ -18,6 +18,11 @@ Arrays, loops, conditional statements.
 
 Functions. 
 
+How to use Beautiful Soup for scraping. 
+- How to use concurrency to scrape faster
+
+Statistics in python 
+
 
 
 
