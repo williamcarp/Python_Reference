@@ -4,6 +4,8 @@ A repository to hold notes on using the Python programming language.
 
 import (math, numpy, scipy, matplotlib, etc.) 
 
+Object-Oriented Programming (OOP) - python 
+
 Comments, sections with Colab markup language.
 
 Reading in data from .csv files 
